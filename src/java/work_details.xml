@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workdetails>
+    <employee>
+        <name>P. Sri Harsha</name>
+        <employeeid>212701972</employeeid>
+        <role>Digital Technology Intern Co-op</role>
+        <manager>Mr. Murali Krishna</manager>
+        <programmanager>Mrs. Aditi Swaroop</programmanager>
+        <assignmentleader>Mr. Shekar Chandra</assignmentleader>
+        <officelocation>John F Welch Technology Center Bangalore</officelocation>
+        <desknumber>JF2038</desknumber>
+        <currentproject>Boiler Configurator</currentproject>
+    </employee>
+
+     <employee>
+        <name>K Rahul</name>
+        <employeeid>123456789</employeeid>
+        <role>Digital Technology Intern Co-op</role>
+        <manager>Mr. Murali Krishna</manager>
+        <programmanager>Mrs. Aditi Swaroop</programmanager>
+        <assignmentleader>Mr. Shekar Chandra</assignmentleader>
+        <officelocation>John F Welch Technology Center Bangalore</officelocation>
+        <desknumber>JF2039</desknumber>
+        <currentproject>Boiler Configurator</currentproject>
+    </employee>
+</workdetails>

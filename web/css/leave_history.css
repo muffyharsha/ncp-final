@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Glegoo:700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.table{
+    background-color: aliceblue;
+}
+button{
+    border-radius: 10px;
+    height: 45px;
+    width: 150px;
+    text-align: center;
+    background-color: #5499C7;
+    font-size: 15px;
+    color: #ffffff;
+
+    }

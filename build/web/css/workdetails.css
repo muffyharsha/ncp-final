@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Glegoo:700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+
+
+.container{
+    margin-top: 15px;
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+td{
+    padding: 5px;
+}
